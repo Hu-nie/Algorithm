@@ -44,4 +44,3 @@ for _ in range(num):
     elif com == 'empty':
         print(empty())
 
-
